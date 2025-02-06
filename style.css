@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(245, 245, 172);
+    text-align: center;
+}
+
+a {
+    color:rgb(233, 159, 22);
+    font-size: 45px;
+
+}
+a:hover {
+    color:rgb(238, 185, 86);
+}
+
+h1 {
+    color: rgb(167, 146, 32);
+}
+
+.recipe-name {
+    font-family: cursive;
+}
+
+ul li, ol li {
+    color: rgb(0, 0, 0);
+    margin-block: 20px;
+    list-style: none;
+    text-align: center;
+}
+
+ol
+{
+    margin-inline: 20%;
+}
+ol li
+{
+    list-style: upper-roman;
+    text-align: start;
+}
